@@ -44,3 +44,16 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+
+## Summary
+A quick reference to OctoAcme's project process:
+
+- Purpose & Scope: Standardize how cross-functional projects are run to deliver customer-focused outcomes.
+- Core Principles: Emphasize customer value, iterative delivery, clear ownership, data-driven decisions, and psychological safety.
+- Roles: PM (delivery & coordination), PdM (outcomes & prioritization), Developers, QA, and Stakeholders.
+- Key Artifacts: Maintain a Project Charter, Roadmap, Backlog, Acceptance Criteria, Risk Register, and Retrospectives.
+- Lifecycle: Move projects through Initiation, Planning, Execution, Release, and Close/Retrospective.
+- Communication: Regular PM/PdM syncs, frequent team standups, monthly stakeholder updates, and ad-hoc escalations when needed.
+- Using the docs: Keep the charter current and add process docs to `.copilot/` for use by Copilot Spaces.
+
+This summary is intended as a rapid onboarding reference — use the sections above for details and keep artifacts up to date in the project repo.
